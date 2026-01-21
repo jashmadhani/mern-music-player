@@ -54,14 +54,54 @@ mern-music-player/
 - npm
 
 ### Installation & Running the Project
-
+---
 #### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/jashmadhani/mern-music-player.git
 cd mern-music-player
+```
 
 #### 2️⃣ Install frontend dependencies
+```
 cd frontend
 npm install
-#### Start the frontend
+```
+## Start the frontend
+```
 npm start
+```
+
+#### 3️⃣ Install backend dependencies
+```
+cd backend
+npm install
+```
+## Start the backend server
+```
+npm start
+```
+
+## 🎯 Purpose of the Project
+
+This project was built to:
+- Practice full-stack development using the MERN stack  
+- Learn React component-based UI development  
+- Build REST APIs with Express  
+- Understand frontend–backend communication  
+- Work with MongoDB in a real project structure  
+
+---
+
+## 📌 Future Improvements
+
+- User authentication  
+- Playlist creation  
+- Audio progress and seek controls  
+- Improved UI/UX  
+- Deployment with a live demo  
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/jashmadhani/mern-music-player
