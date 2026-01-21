@@ -66,7 +66,7 @@ cd mern-music-player
 cd frontend
 npm install
 ```
-- Start the frontend
+Start the frontend
 ```
 npm start
 ```
@@ -76,7 +76,7 @@ npm start
 cd backend
 npm install
 ```
-- Start the backend server
+Start the backend server
 ```
 npm start
 ```
