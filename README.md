@@ -38,4 +38,30 @@ The goal of this project is to practice real-world full-stack development concep
 ---
 
 ## 📂 Project Structure
+mern-music-player/
+├── frontend/ # React frontend
+├── backend/ # Node.js + Express backend
+├── package.json
+└── README.md
 
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- Node.js
+- MongoDB
+- npm
+
+### Installation & Running the Project
+
+#### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/jashmadhani/mern-music-player.git
+cd mern-music-player
+
+#### 2️⃣ Install frontend dependencies
+cd frontend
+npm install
+#### Start the frontend
+npm start
